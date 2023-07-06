@@ -110,11 +110,12 @@
 ![](https://raw.githubusercontent.com/clemente0420/clemente0420/main/assets/github-contribution-grid-snake.svg)              
 
 
-### My GitHub Stats
+---
 
-![Clemente0420's GitHub stats](https://github-readme-stats.vercel.app/api?username=clemente0420&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clemente0420&layout=compact)
-
+### :fire: My Stats :
+![snow-dev-1004's GitHub stats](https://github-readme-stats.vercel.app/api?username=snow-dev-1004&show_icons=true&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snow-dev-1004&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![snow-dev-1004's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=snow-dev-1004&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **clemente0420/clemente0420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
