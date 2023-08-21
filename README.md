@@ -2,11 +2,7 @@
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b></em>
 
-### My contributions in the last year
 
-![](https://raw.githubusercontent.com/clemente0420/clemente0420/main/assets/github-contribution-grid-snake.svg)              
-
----
 
 ## Prefered Technicals
 <p align="center">
